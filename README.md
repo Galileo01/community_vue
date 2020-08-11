@@ -1,2 +1,21 @@
 # community_vue
-community_node 项目对应的前端页面，负责前端页面的渲染
+
+[community_vue](https://github.com/Galileo01/community_node) node 项目 对应的前端项目
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
