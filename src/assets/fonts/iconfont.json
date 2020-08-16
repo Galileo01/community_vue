@@ -1,0 +1,23 @@
+{
+  "id": "1724731",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1223053",
+      "name": "踩",
+      "font_class": "cai",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "3502282",
+      "name": "点赞",
+      "font_class": "zan1",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

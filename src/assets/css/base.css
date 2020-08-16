@@ -1,0 +1,7 @@
+@import url(./normalize.css);
+
+/*el-row 组件 内部col 水平对齐*/
+.el-row{
+    display: flex;
+    align-items: center;
+}
